@@ -27,19 +27,19 @@ Our project proposes a novel solution to overcome communication barriers by conv
 ## Screenshots
 
 ### Homepage
-![https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Homepage.png]
+! [https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Homepage.png]
 
 ### Signup Page
-![https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Signinpage.png]
+! [https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Signinpage.png]
 
 ### Login Page
-![https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Loginpage.png]
+! [https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Loginpage.png]
 
 ### Converter Page
-![https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Convertor.png]
+! [https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Convertor.png]
 
 ### Output Generated
-![https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Output.png]
+! [https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Output.png]
 
 ## Contributor
 
