@@ -27,24 +27,23 @@ Our project proposes a novel solution to overcome communication barriers by conv
 ## Screenshots
 
 ### Homepage
-!Homepage
+!Homepage (https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Homepage.png)
 
 ### Signup Page
-!Signup Page (
+!Signup Page (https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Signinpage.png)
 
 ### Login Page
-!Login Page
+!Login Page (https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Loginpage.png)
 
 ### Converter Page
-!Converter Page
+!Converter Page (https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Convertor.png)
 
 ### Output Generated
-!Output Generated
+!Output Generated (https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Output.png)
 
 ## Contributor
 
-This project is contributed by [G Srinivasa Eswara Vara Prasad] {https://github.com/varaprasadtarunkumar/}.
-
+This project is contributed by G Srinivasa Eswara Vara Prasad.
 ## Conclusion
 
 The Audio to Sign Language Converter project represents a significant step towards bridging the communication gap between deaf and hearing individuals. By harnessing the power of NLP and computer vision, this system not only enhances accessibility but also promotes inclusivity and empathy in society. Through continued refinement and adoption, we envision a future where communication barriers are dismantled, and mutual understanding prevails.
