@@ -30,7 +30,7 @@ Our project proposes a novel solution to overcome communication barriers by conv
 ![Homepage](https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Homepage.png)
 
 ### Signup Page
-![Signup Page](https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Signinpage.png)
+![Signup Page](https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Signpage.png)
 
 ### Login Page
 ![Login Page](https://github.com/gannemjahnavi/AUDIO_SPEECH_TO_SIGN_LANGUAGE_CONVERTOR/blob/main/Loginpage.png)
